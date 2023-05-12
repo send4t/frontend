@@ -28,6 +28,6 @@ export const supportedChains = [
     chainId: 2109,
     disperseAddress: "0x21646aB83C93f8596DB43786ae25F27807d12772",
     blockExplorer: "https://explorer.exosama.com",
-    name: "goerli",
+    name: "exosama",
   },
 ];
