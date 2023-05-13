@@ -187,7 +187,7 @@ const Payment = ({ address }) => {
           }`}
         >
           {" "}
-          ether{" "}
+          SAMA{" "}
         </span>
         or
         <span
@@ -197,7 +197,7 @@ const Payment = ({ address }) => {
           }`}
         >
           {" "}
-          token
+          ERC20 token
         </span>
       </h3>
 
