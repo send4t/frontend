@@ -215,14 +215,14 @@ const Payment = ({ address }) => {
               style={{
                 width: "100%",
                 background: "aquamarine",
-                color: "#768882",
+                color: "#7328ff",
               }}
             />
             <button
               onClick={loadToken}
               className="ml-4 px-2"
               style={{
-                background: "aquamarine",
+                background: "#7328ff",
                 boxShadow: "6px 6px crimson",
               }}
             >
