@@ -214,8 +214,8 @@ const Payment = ({ address }) => {
               onChange={(e) => setTokenAddress(e.target.value)}
               style={{
                 width: "100%",
-                background: "aquamarine",
-                color: "#7328ff",
+                background: "#7328ff",
+                color: "black",
               }}
             />
             <button
