@@ -75,7 +75,7 @@ const Confirm = ({
               isDisabled && `disabled:cursor-default`
             }`}
             style={{
-              background: "aquamarine",
+              background: "#7328ff",
               boxShadow: "6px 6px crimson",
             }}
             disabled={isDisabled}
@@ -93,7 +93,7 @@ const Confirm = ({
               isDisabled && `disabled:cursor-default`
             }`}
             style={{
-              background: "aquamarine",
+              background: "#7328ff",
               boxShadow: "6px 6px crimson",
             }}
           >
