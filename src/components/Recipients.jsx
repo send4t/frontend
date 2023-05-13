@@ -13,7 +13,7 @@ const Recipients = ({ tokenSymbol, textValue, setTextValue }) => {
         className="block border-b-2 border-black outline-none px-2 py-2 mt-4 h-32 max-w-3xl"
         style={{
           width: "100%",
-          background: "aquamarine",
+          background: #7328ff,
           color: "black",
         }}
         placeholder="0x2b1F577230F4D72B3818895688b66abD9701B4dC=1.41421
