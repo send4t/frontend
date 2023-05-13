@@ -25,7 +25,7 @@ const Header = ({ address }) => {
       </div>
       <div></div>
       <p className="pt-8 text-l font-light">
-        <i>verb</i> distribute ether or tokens to multiple addresses
+        <i>verb</i> distribute SAMA or ERC20 tokens to multiple addresses
       </p>
     </div>
   );
