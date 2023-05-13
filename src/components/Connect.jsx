@@ -6,7 +6,7 @@ const Connect = ({ connect }) => {
         onClick={connect}
         className="px-2 mt-6 p-2 italic"
         style={{
-          background: "a#7328ff",
+          background: "#7328ff",
           boxShadow: "6px 6px crimson",
         }}
       >
