@@ -4,7 +4,7 @@ const Connect = ({ connect }) => {
       <h3 className="text-2xl font-light italic">connect to wallet</h3>
       <button
         onClick={connect}
-        className="px-2 mt-6 p-2 italic"
+        className="px-5 mt-6 p-2 italic"
         style={{
           color: "white",
           background: "#7328ff",
