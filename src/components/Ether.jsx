@@ -98,7 +98,7 @@ const Ether = ({ address }) => {
 
   return (
     <p className="pt-4 text-l font-light italic">
-      you have {ethBalance} <span className="pt-1 text-sm">ETH</span>
+      you have {ethBalance} <span className="pt-1 text-sm">SAMA</span>
       <Recipients
         textValue={textValue}
         setTextValue={setTextValue}
