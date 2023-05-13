@@ -7,7 +7,7 @@ const Connect = ({ connect }) => {
         className="px-2 mt-6 p-2 italic"
         style={{
           background: "#7328ff",
-          boxShadow: "6px 6px crimson",
+          boxShadow: "6px 6px black",
         }}
       >
         connect wallet
